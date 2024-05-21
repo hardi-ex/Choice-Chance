@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "Choice-Chance",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/Choice-Chance/",
     "preview": "vite preview",
     "push": "git add . && git commit -m 'update' && git push"
   },
