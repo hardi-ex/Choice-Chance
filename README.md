@@ -1,1 +1,1 @@
-# Vanilla App Template
+# Choice сhance. Try your luck.
