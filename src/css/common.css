@@ -49,6 +49,7 @@ body {
   align-items: center;
   flex-direction: row;
   gap: 40px;
+  min-width: 300px;
 }
 
 .item {
@@ -105,6 +106,7 @@ body {
   background-color: white;
   color: #000000;
   padding: 10px 15px;
+  min-width: 96px;
 }
 
 @media (hover: hover) {
