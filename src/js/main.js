@@ -30,7 +30,7 @@ startBtn.addEventListener('click', () => {
 
   for (let i = 0; i < 3; i++) {
     container.children[i].textContent = '';
-    const p1 = createPromise((i + 1) * 250, Math.random() > 0.5);
+    const p1 = createPromise((i + 1) * 250, Math.random() > 0.3);
     p1.then(smile => {
       container.children[i].textContent = smile;
     }).catch(smile => {
